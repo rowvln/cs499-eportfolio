@@ -1,0 +1,31 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Node modules
+node_modules/
+
+# Temporary files
+tmp/
+temp/
+
+# OS generated files
+Thumbs.db
