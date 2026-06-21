@@ -1,5 +1,5 @@
 # Enhancement Three
-# Databases
+## Databases
 
 Enhancement Three focused on improving the database layer of the Travlr Getaways application, a full-stack travel booking system that I originally developed during previous coursework. The application uses Angular for the frontend, Node.js and Express for the backend, and MongoDB with Mongoose for data storage. I selected this artifact because it gave me the opportunity to demonstrate database design, validation, backend integration, and secure data handling within a realistic full-stack application. As I continued enhancing the project throughout this class, I identified several areas where the database implementation could be improved to make the application more reliable, secure, and maintainable.
 

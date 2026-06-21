@@ -1,5 +1,5 @@
 # Enhancement Two
-# Algorithms and Data Structures
+## Algorithms and Data Structures
 
 The artifact selected for this enhancement is the Travlr Getaways full-stack travel application that I originally developed in CS 465. The application uses MongoDB, Express, Node.js, and Angular to provide both a customer-facing travel website and an administrative portal for managing trip information. I selected this artifact because it provides opportunities to demonstrate software engineering, database management, and algorithmic concepts within a single application. Since the project includes a frontend, backend API, and database, it allowed me to make meaningful improvements related to data processing, scalability, and application performance. I also felt that continuing to enhance a single project throughout CS 499 would provide a stronger demonstration of my growth than making smaller changes across multiple unrelated projects.
 
