@@ -1,62 +1,29 @@
 # Rowvin Dizon
 
-I'm a Computer Science student focused on software engineering, full-stack development, machine learning, and product-focused systems.
+## CS 499 Computer Science ePortfolio
 
----
+Welcome to my Computer Science Capstone ePortfolio. This portfolio showcases the knowledge and skills I developed throughout the Bachelor of Science in Computer Science program at Southern New Hampshire University.
 
-# Professional Self-Assessment
+The primary artifact featured in this portfolio is the Travlr Getaways full-stack travel application. Originally developed in CS 465, the application was enhanced throughout CS 499 in the areas of software design and engineering, algorithms and data structures, and databases.
 
-This ePortfolio reflects my growth throughout the Southern New Hampshire University Computer Science program through enhanced technical artifacts focused on software engineering, algorithms and data structures, and databases.
+## Professional Self-Assessment
 
-The projects included in this portfolio represent both technical improvement and professional growth. Each enhancement challenged me to think more critically about scalability, efficiency, maintainability, and communication while applying industry-standard development practices.
+[View Professional Self-Assessment](professional-self-assessment.md)
 
-My goal throughout this portfolio wasn't only to improve the technical quality of each project, but also to better understand how thoughtful software design can create meaningful and practical solutions.
+## Code Review Video
 
----
+[Watch Code Review Video](https://youtu.be/7xbtAo46tJA)
 
-# Featured Projects
+## Featured Artifact
 
-## Software Engineering and Design
-### Travlr Getaways Full Stack Application
+[Travlr Getaways Project](projects/travlr-getaways.md)
 
-A full-stack travel application built with MongoDB, Express, Angular, and Node.js.
+## Enhancement Narratives
 
-[View Project](projects/travlr-getaways.md)
+- [Software Design and Engineering](case-studies/software-engineering.md)
+- [Algorithms and Data Structures](case-studies/algorithms-data-structures.md)
+- [Databases](case-studies/databases.md)
 
----
+## Repository
 
-## Algorithms and Data Structures
-### Deep Q-Learning Agent
-
-A reinforcement learning project implementing a Deep Q-Network with experience replay.
-
-[View Project](projects/dqn-agent.md)
-
----
-
-## Databases
-### Grazioso Salvare Dashboard
-
-A MongoDB dashboard application for filtering and visualizing rescue animal data.
-
-[View Project](projects/grazioso-dashboard.md)
-
----
-
-# Enhancement Narratives
-
-- [Software Engineering Narrative](case-studies/software-engineering.md)
-- [Algorithms and Data Structures Narrative](case-studies/algorithms-data-structures.md)
-- [Databases Narrative](case-studies/databases.md)
-
----
-
-# Code Review Video
-
-[Will be updated soon!](#)
-
----
-
-# GitHub
-
-[github.com/rowvln](https://github.com/rowvln)
+[GitHub Repository](https://github.com/rowvln/cs499-eportfolio)
